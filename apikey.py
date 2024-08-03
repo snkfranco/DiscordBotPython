@@ -1,0 +1,1 @@
+bot_token = 'cole o seu token aqui'
